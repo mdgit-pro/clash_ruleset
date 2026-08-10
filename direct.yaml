@@ -8,3 +8,10 @@ payload:
   
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steampowered.com
+
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,weixinbridge.com
+  - DOMAIN-SUFFIX,qq.com
+
+  - DOMAIN-SUFFIX,dynv6.com
