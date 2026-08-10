@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,live.com
   
