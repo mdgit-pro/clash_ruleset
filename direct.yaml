@@ -15,3 +15,12 @@ payload:
   - DOMAIN-SUFFIX,qq.com
 
   - DOMAIN-SUFFIX,dynv6.com
+  - DOMAIN-SUFFIX,gw.wtzw.com
+  - DOMAIN-SUFFIX,pconline.com.cn
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,tencent-cloud.net
+  - DOMAIN-SUFFIX,wtzw.com
+  - DOMAIN-SUFFIX,snssdk.com
+
+  - DOMAIN-SUFFIX,cn
