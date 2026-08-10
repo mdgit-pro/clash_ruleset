@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,g.doubleclick.net
+  - DOMAIN-SUFFIX,google.com.sg
 
   # YouTube 相关
   - DOMAIN-SUFFIX,youtube.com
