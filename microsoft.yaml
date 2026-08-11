@@ -5,4 +5,6 @@ payload:
   - DOMAIN-SUFFIX,microsoftpersonalcontent.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,live.com
-  
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,msn.com
