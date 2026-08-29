@@ -7,4 +7,5 @@ payload:
 
   # Gemini 相关域名
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,gemini.gstatic.com
   - DOMAIN-SUFFIX,googleapis.com
