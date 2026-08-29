@@ -1,2 +1,10 @@
 payload:
-  #
+  # ChatGPT 相关域名
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,api.revenuecat.com
+  - DOMAIN-SUFFIX,ingest.us.sentry.io
+
+  # Gemini 相关域名
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,googleapis.com
