@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,battlenet.com.cn
+  - DOMAIN-SUFFIX,akamaized.net
   
 
   - DOMAIN-SUFFIX,cn
