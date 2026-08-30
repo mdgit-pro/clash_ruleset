@@ -25,6 +25,12 @@ payload:
 
   - DOMAIN-SUFFIX,digicert.com
 
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,blzstatic.cn
+  - DOMAIN-SUFFIX,battlenet.com.cn
+  
+
   - DOMAIN-SUFFIX,cn
   
   
